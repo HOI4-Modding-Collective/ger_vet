@@ -5,4 +5,4 @@ tags={
 }
 picture="ger_vet.jpg"
 remote_file_id="722311182"
-supported_version="1.3.*"
+supported_version="1.4.*"
